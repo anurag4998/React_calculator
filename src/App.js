@@ -1,14 +1,14 @@
-import React from 'react';
-import Calci from './components/calculator';
+import React from 'react'
+import Calci from './components/calculator'
 
-import './App.css';
+import './App.css'
 
 function App() {
-  return (
-    <div className="App">
-      <Calci />
-    </div>
-  );
+    return (
+        <div className="App">
+            <Calci />
+        </div>
+    )
 }
 
-export default App;
+export default App

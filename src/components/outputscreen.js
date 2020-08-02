@@ -1,5 +1,5 @@
-import React from 'react';
-import Row from './row.js';
+import React from 'react'
+import Row from './row.js'
 
 const OutputScreen = (props) => {
     return (
@@ -10,4 +10,4 @@ const OutputScreen = (props) => {
     )
 }
 
-export default OutputScreen; 
+export default OutputScreen

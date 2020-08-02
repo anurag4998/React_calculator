@@ -1,12 +1,9 @@
-import React from 'react';
-
+import React from 'react'
 
 const Button = (props) => {
-
-
-
     return (
-        <input className='btn'
+        <input
+            className="btn"
             type="button"
             value={props.val}
             onClick={props.handleClick}
