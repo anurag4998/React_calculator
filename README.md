@@ -1,4 +1,4 @@
-![Design preview](./design/desktop-preview.png)
+![Design preview](./design/desktop-preview.PNG)
 
 A calculator built using react hooks that lets you perform all the basic mathematical operations
 
