@@ -16,7 +16,7 @@ const Calci = () => {
             } catch {
                 alert('error')
             }
-            if (a === undefined) equation('error')
+            if (a === undefined) setEquation('error')
             else setValue(a)
         } else if (inputvalue === '+/-') {
             if (equation) {
